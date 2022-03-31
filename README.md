@@ -4,18 +4,20 @@
 
 ### [w02](https://1102-1-n-java-script-210410196.vercel.app/demo/w02/)
 
-### [w03 - counter_starter_96](https://1102-1-n-java-script-210410196.vercel.app/demo/w03/counter_starter_96)
+### [w03 - counter_starter_96](https://1102-1-n-java-script-210410196.vercel.app/demo/w03/)
 
-### [w03 - reviews_starter_96](https://1102-1-n-java-script-210410196.vercel.app/demo/w03/reviews_starter_96)
+### [w03 - reviews_starter_96](https://1102-1-n-java-script-210410196.vercel.app/demo/w03/)
 
-### [w04](https://1102-1-n-java-script-210410196.vercel.app/demo/w04/menu-starter-210410196)
+### [w04](https://1102-1-n-java-script-210410196.vercel.app/demo/w04/menu-starter-210410196/)
 
 ### [w05 - array](https://1102-1-n-java-script-210410196.vercel.app/demo/w05/array/)
 
 ### [w05 - guess-starter-xx](https://1102-1-n-java-script-210410196.vercel.app/demo/w05/guess-starter-xx/)
 
-### [w06 - students_demo](https://1102-1-n-java-script-210410196.vercel.app/demo/w06/students_demo)
+### [w06 - students_demo](https://1102-1-n-java-script-210410196.vercel.app/demo/w06/students_demo/)
+
+### [w06 - theme](https://1102-1-n-java-script-210410196.vercel.app/demo/w06/theme/)
 
 ### [guess-starter-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/guess-starter-210410196/)
 
-### [omnifood-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/omnifood-210410196/dist)
+### [omnifood-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/omnifood-210410196/dist/)
