@@ -18,7 +18,7 @@
 
 ### [w06 - theme](https://1102-1-n-java-script-210410196.vercel.app/demo/w06/theme/)
 
-### [w08 - README.md](https://1102-1-n-java-script-210410196.vercel.app/demo/w08/w08_210410196.md)
+### [w08 - README.md](https://github.com/git-billy/1102-1N-JavaScript-210410196/blob/main/demo/w08/w08_210410196.md)
 
 ### [guess-starter-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/guess-starter-210410196/)
 
