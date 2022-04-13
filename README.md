@@ -18,6 +18,8 @@
 
 ### [w06 - theme](https://1102-1-n-java-script-210410196.vercel.app/demo/w06/theme/)
 
+### [w08 - README.md](https://1102-1-n-java-script-210410196.vercel.app/demo/w08/w08_210410196.md)
+
 ### [guess-starter-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/guess-starter-210410196/)
 
 ### [omnifood-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/omnifood-210410196/dist/)
