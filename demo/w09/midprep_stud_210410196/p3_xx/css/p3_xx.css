@@ -54,7 +54,7 @@ body {
 }
 
 #main ul {
-  display: flex;
+  display: none;
   flex-direction: column;
 }
 
