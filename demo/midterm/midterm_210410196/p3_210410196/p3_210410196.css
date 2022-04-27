@@ -1,0 +1,114 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: bisque;
+  font-size: 16px;
+}
+
+#container {
+  width: 90%;
+  border: 2px solid purple;
+  margin: 20px auto;
+}
+
+#heading {
+  width: 100%;
+  height: 100px;
+  background-color: darkcyan;
+  text-align: center;
+}
+
+#heading .link {
+  display: flex;
+  justify-content: space-between;
+}
+
+#heading ul {
+  display: flex;
+  margin-top: 1.7rem;
+  padding: 0 2rem;
+}
+
+#heading li {
+  list-style-type: none;
+  padding: 0px 5px 10px 5px;
+  font-size: 0.9 rem;
+}
+
+#heading ul a {
+  background-color: darksalmon;
+  padding: 5px;
+}
+
+#heading ul a:hover {
+  background-color: crimson;
+}
+
+#main {
+  display: flex;
+  background-color: darkturquoise;
+}
+
+#main ul {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
+
+#main li {
+  list-style-type: none;
+  text-align: center;
+  margin: 12px;
+  font-size: 0.8rem;
+}
+
+#main ul a {
+  background-color: salmon;
+  padding: 5px;
+}
+
+#main ul a:hover {
+  background-color: crimson;
+}
+
+aside {
+  width: 20%;
+  height: 100%;
+  background-color: darkturquoise;
+}
+
+#section {
+  width: 60%;
+  height: 100%;
+  background-color: rgb(152, 230, 230);
+  padding: 10px;
+}
+
+#footer {
+  width: 100%;
+  height: 70px;
+  background-color: darkgray;
+}
+
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.invisible {
+  display: none;
+}
