@@ -26,6 +26,18 @@
 
 ### [w11 - Sidebar](https://1102-1-n-java-script-210410196.vercel.app/demo/w11/sidebar-starter/)
 
+### [w12 - 2_asynchronous_JavaScript5](https://1102-1-n-java-script-210410196.vercel.app/demo/w12/Async_JavaScript/2_asynchronous_JavaScript5)
+
+### [w12 - 3_dom-cb-example](https://1102-1-n-java-script-210410196.vercel.app/demo/w12/Async_JavaScript/3_dom-cb-example)
+
+### [w12 - 4_promise](https://1102-1-n-java-script-210410196.vercel.app/demo/w12/Async_JavaScript/4_promise)
+
+### [w12 - 5_dom-cb-promise](https://1102-1-n-java-script-210410196.vercel.app/demo/w12/Async_JavaScript/5_dom-cb-promise)
+
+### [w12 - 6_dom-cb-promise-async-await](https://1102-1-n-java-script-210410196.vercel.app/demo/w12/Async_JavaScript/6_dom-cb-promise-async-await)
+
+### [w12 - 7_fetch_api](https://1102-1-n-java-script-210410196.vercel.app/demo/w12/Async_JavaScript/7_fetch_api)
+
 ### [guess-starter-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/guess-starter-210410196/)
 
 ### [omnifood-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/omnifood-210410196/dist/)
