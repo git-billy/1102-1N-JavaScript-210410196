@@ -8,6 +8,10 @@ const url = 'api/dataset.json';
 
 const dataArray = [];
 
+function formatMoney(number) {
+  return '$' + number.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+}
+
 const getDataAsync = async url => {
   try {
     const response = await fetch(url);
@@ -20,15 +24,19 @@ const getDataAsync = async url => {
 };
 
 const showData = data => {
+  let allData = data
+    .map(
+      el =>
+        `<div class="person"><strong>${el.name}</strong> ${formatMoney(
+          el.money
+        )}</div>`
+    )
+    .join('');
+
   btn.addEventListener('click', () => {
-    data.map(el =>
-      main.insertAdjacentHTML(
-        'afterend',
-        `
-        <div class="person"><strong>${el.name}</strong> $${el.money}</div>
-        `
-      )
-    );
+    main.innerHTML = `<h2><strong>Person</strong> Wealth</h2> ${allData}`;
   });
+
+  console.log(dataArray);
 };
 getDataAsync(url);

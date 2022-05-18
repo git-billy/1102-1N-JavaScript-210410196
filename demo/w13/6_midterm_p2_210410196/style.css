@@ -7,6 +7,11 @@ h2 {
   margin: 0 0 20px;
 }
 
+main {
+  flex: 1;
+  padding: 10px 20px;
+}
+
 .person {
   display: flex;
   justify-content: space-between;
