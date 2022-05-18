@@ -20,7 +20,7 @@
 
 ### [w08 - README.md](https://github.com/git-billy/1102-1N-JavaScript-210410196/blob/main/demo/w08/w08_210410196.md)
 
-### [w09模擬考試連結](https://github.com/git-billy/1102-1N-JavaScript-210410196/tree/main/demo/w09)
+### [w09 模擬考試連結](https://github.com/git-billy/1102-1N-JavaScript-210410196/tree/main/demo/w09)
 
 ### [w11 - Navbar](https://1102-1-n-java-script-210410196.vercel.app/demo/w11/navbar-starter/)
 
@@ -37,6 +37,18 @@
 ### [w12 - 6_dom-cb-promise-async-await](https://1102-1-n-java-script-210410196.vercel.app/demo/w12/Async_JavaScript/6_dom-cb-promise-async-await)
 
 ### [w12 - 7_fetch_api](https://1102-1-n-java-script-210410196.vercel.app/demo/w12/Async_JavaScript/7_fetch_api)
+
+### [w13 - 1_simple-text](https://1102-1-n-java-script-210410196.vercel.app/demo/w13/1_simple-text)
+
+### [w13 - 2_add_btn](https://1102-1-n-java-script-210410196.vercel.app/demo/w13/2_add_btn)
+
+### [w13 - 3_json_people](https://1102-1-n-java-script-210410196.vercel.app/demo/w13/3_json_people)
+
+### [w13 - 4_json_people-fetch-api](https://1102-1-n-java-script-210410196.vercel.app/demo/w13/4_json_people-fetch-api)
+
+### [w13 - 5_json_people-fetch-api](https://1102-1-n-java-script-210410196.vercel.app/demo/w13/5_json_people-async-await)
+
+### [w13 - 6_midterm_p2_210410196](https://1102-1-n-java-script-210410196.vercel.app/demo/w13/6_midterm_p2_210410196)
 
 ### [guess-starter-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/guess-starter-210410196/)
 
