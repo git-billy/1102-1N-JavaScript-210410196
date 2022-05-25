@@ -50,6 +50,8 @@
 
 ### [w13 - 6_midterm_p2_210410196](https://1102-1-n-java-script-210410196.vercel.app/demo/w13/6_midterm_p2_210410196)
 
+### [w14 - cocktaildb](https://1102-1-n-java-script-210410196.vercel.app/demo/w14/cocktaildb_210410196)
+
 ### [guess-starter-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/guess-starter-210410196/)
 
 ### [omnifood-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/omnifood-210410196/dist/)
