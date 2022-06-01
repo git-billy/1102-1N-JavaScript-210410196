@@ -20,7 +20,7 @@ const displayDrinks = async drinks => {
     .map(
       e =>
         `
-  <a href="#">
+  <a href="drink_210410196.html">
     <article class="cocktail" data-id="${e.idDrink}">
         <img src="${e.strDrinkThumb}" alt="cocktail" />
         <h3>${e.strDrink}</h3>
