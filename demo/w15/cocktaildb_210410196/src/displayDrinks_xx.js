@@ -20,8 +20,8 @@ const displayDrinks = async drinks => {
     .map(
       e =>
         `
-  <a href="drink_210410196.html">
-    <article class="cocktail" data-id="${e.isDrinks}">
+  <a href="#">
+    <article class="cocktail" data-id="${e.idDrink}">
         <img src="${e.strDrinkThumb}" alt="cocktail" />
         <h3>${e.strDrink}</h3>
     </article>
@@ -32,6 +32,8 @@ const displayDrinks = async drinks => {
 
   title.textContent = '';
   section.innerHTML = html;
+
+  return section
 };
 
 export default displayDrinks;
