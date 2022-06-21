@@ -50,7 +50,17 @@
 
 ### [w13 - 6_midterm_p2_210410196](https://1102-1-n-java-script-210410196.vercel.app/demo/w13/6_midterm_p2_210410196)
 
-### [w14 - cocktaildb](https://1102-1-n-java-script-210410196.vercel.app/demo/w14/cocktaildb_210410196)
+### [w14 - cocktaildb](https://1102-1-n-java-script-210410196.vercel.app/demo/w14/cocktaildb_210410196/index.html)
+
+### [w15 - cocktaildb](https://1102-1-n-java-script-210410196.vercel.app/demo/w15/cocktaildb_210410196/index.html)
+
+### [w16 - cocktaildb](https://1102-1-n-java-script-210410196.vercel.app/demo/w16/cocktaildb_210410196/index.html)
+
+### [w16 - cocktaildb](https://1102-1-n-java-script-210410196.vercel.app/demo/w16/grocery_xx/index.html)
+
+### [w17 - cocktaildb](https://1102-1-n-java-script-210410196.vercel.app/demo/w17/cocktaildb_210410196)
+
+### [w17 - w04-Menu](https://1102-1-n-java-script-210410196.vercel.app/demo/w17/w04-Menu/menu-starter-xx/theme/index.html)
 
 ### [guess-starter-210410196](https://1102-1-n-java-script-210410196.vercel.app/project/guess-starter-210410196/)
 
